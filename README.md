@@ -1,2 +1,1 @@
-# ShyamalEntireFolder
-ShyamalEntireFolder related to Azure Training
+# infy532
